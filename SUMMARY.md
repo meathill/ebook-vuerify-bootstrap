@@ -6,7 +6,7 @@
     * [石器时代 - jQuery](01-2-jquery.md)
     * [铁器时代 - Backbone](01-3-backbone.md)
     * [蒸汽动力 - Knockout，Angular1](01-4-knockout.md)
-    * [电子时代 - React，Vue，Angular2/4](01-5-react-vue.md)
+    * [电子时代 - React，Vue，Angular2/4](01-5-vue.md)
 * [框架入门](02-introduction.md)
     * [Bootstrap 简介](02-1-bootstrap.md)
     * [Vue 入门](02-2-vue.md)
