@@ -16,8 +16,10 @@
     * [填入表单](05-1-modal.md)
     * [小结](05-2-review.md)
 * [第二步：用户登录](06-user.md)
-* [第三步：组件化](07-components.md)
-* [第四步：改造其它控件](08-going-on.md)
+    * [使用 Vuex 保存用户状态](06-1-vuex.md)
+    * [全局登录状态检查](06-2-vue-resource.md)
+* [第三步：路由](07-router.md)
+* [第四步：组件化](08-components.md)
 * [第五步：使用其它 UI 框架](09-other-framework.md)
 * [总结](review.md)
 
