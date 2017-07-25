@@ -11,4 +11,8 @@
 
 看来看去，最值得拿来入手的应该是 [弹窗（Modal）](https://v4-alpha.getbootstrap.com/components/modal/) 和 [通知（Alert）](https://v4-alpha.getbootstrap.com/components/alerts/) 之类和主要业务逻辑关系不大，自身可定制性比较强（JS 比较复杂）的组件。
 
-好的，就拿弹窗来做吧。
+好的，就拿弹窗来试刀吧！
+
+--------
+
+篇幅所限，我没法展示对每一个组件的重构/改造，所以本文中的几个篇章都有特定的目的，主要在于介绍一门或几个技术。希望大家举一反三，将它们应用到日常工作中。
