@@ -11,11 +11,12 @@
     * [Bootstrap 简介](02-1-bootstrap.md)
     * [Vue 入门](02-2-vue.md)
 * [改造项目简介](03-project.md)
-* [第一步：弹窗 Modal](04-modal.md)
-* [第二步：用户登录](05-user.md)
-* [第三步：组件化](06-components.md)
-* [第四步：改造其它控件](07-going-on.md)
-* [第五步：使用其它 UI 框架](08-other-framework.md)
+* [第0步：分析](04-think.md)
+* [第一步：弹窗 Modal](05-modal.md)
+* [第二步：用户登录](07-user.md)
+* [第三步：组件化](07-components.md)
+* [第四步：改造其它控件](08-going-on.md)
+* [第五步：使用其它 UI 框架](09-other-framework.md)
 * [总结](review.md)
 
 ## 其它

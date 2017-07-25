@@ -14,4 +14,4 @@ Bootstrap 经过几轮升级，现在处于 v4-alpha.6 阶段，作为一个免�
 * [CoreUI](http://coreui.io/) 基于 Bootstrap 做的后台类模板，免费，有多种框架配置
 * [Start Bootstrap](https://startbootstrap.com/) 另一套免费模板
 
-Bootstrap 的文档非常详细，我就不凑字数了。将来文章发布后有问题再补充吧。
+Bootstrap 的文档非常详细，我就不凑字数了。将来文章发布后若有问题再补充吧。
