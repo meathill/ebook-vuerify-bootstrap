@@ -1,0 +1,26 @@
+{
+  "name": "vuerify-bootstrap",
+  "version": "0.1.0",
+  "description": "Vue 横空出世，以迅雷不及掩耳之势横扫前端界，俨然有当年 jQuery 之势。我认为 Vue 成功的关键在于三点：",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meathill/ebook-vuerify-bootstrap.git"
+  },
+  "keywords": [],
+  "author": "Meathill <meathill@gmail.com> (http://meathill.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meathill/ebook-vuerify-bootstrap/issues"
+  },
+  "homepage": "https://github.com/meathill/ebook-vuerify-bootstrap#readme",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "run-sequence": "^2.1.0"
+  }
+}
